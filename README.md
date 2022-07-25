@@ -4,6 +4,8 @@
 
 -The site Devera has many sections.it is responsive with all model (Mobil Tablet Desktop).
 
+-> You can see this website with the link : https://akram19-setif.github.io/Devera/
+
 ## The history of this website
 
 I built this website to old my team developers Devera , i was a member as front-end developer .Now, this team not exist,i was want to show the clients the members of our team and their works.
