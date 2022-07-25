@@ -1,7 +1,8 @@
 # Devera
 
-The Website is a simple landing page built with modern HTML5 and CSS3 and Vanilla Js ,library for SCROLL REVIAL ANIMATION ,
-Site Devera has many sections.it is responsive with all model (Mobil Tablet Desktop).
+-The Website is a simple landing page built with modern HTML5 and CSS3 and Vanilla Js ,library for SCROLL REVIAL ANIMATION .
+
+-The site Devera has many sections.it is responsive with all model (Mobil Tablet Desktop).
 
 ## The history of this website
 
